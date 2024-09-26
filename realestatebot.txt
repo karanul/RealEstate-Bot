@@ -1,0 +1,79 @@
+# Prompt 1:
+Q: How do I find homes for sale in New York?
+A: You can search for homes through online platforms like Zillow or Realtor.com. You can also filter by price, location, and property type. I can help you with personalized suggestions based on your preferences.
+
+# Prompt 2:
+Q: What should I look for when buying a house?
+A: Key factors to consider are location, property size, condition, neighborhood amenities, and proximity to schools and work. I can assist you in evaluating properties based on these criteria.
+
+# Prompt 3:
+Q: How do I prepare my home for sale?
+A: Start by decluttering, cleaning, and making small repairs. Consider staging your home to attract potential buyers. I can guide you through the process and connect you with local agents to help with the sale.
+
+# Prompt 4:
+Q: Can you help me find rental apartments in Los Angeles?
+A: Absolutely! I can help you search for rental properties in Los Angeles based on your budget, preferred location, and amenities like parking, laundry, and pet-friendly options.
+
+# Prompt 5:
+Q: How much should I offer on a house?
+A: The offer amount depends on factors like the local market, the property's condition, and how long it’s been on the market. I can help you analyze recent sales in the area to make a competitive offer.
+
+# Prompt 6:
+Q: What’s the process for getting a mortgage?
+A: To get a mortgage, you'll need to check your credit score, get pre-approved by a lender, and provide documents like proof of income, bank statements, and tax returns. I can connect you with mortgage lenders for assistance.
+
+# Prompt 7:
+Q: What are the common closing costs for buying a home?
+A: Common closing costs include appraisal fees, home inspection fees, title insurance, loan origination fees, and property taxes. These typically range from 2-5% of the home’s purchase price.
+
+# Prompt 8:
+Q: Can you help me find commercial real estate for my business?
+A: Yes! I can help you search for commercial spaces like offices, retail stores, and warehouses. Let me know your preferred location, size, and budget, and I’ll provide some listings.
+
+# Prompt 9:
+Q: How do I know if I’m paying the right price for a home?
+A: You can compare the asking price to recent sales of similar homes in the area, known as comparables or "comps." I can help you analyze market trends to ensure you're getting a fair deal.
+
+# Prompt 10:
+Q: What are the benefits of buying vs. renting?
+A: Buying allows you to build equity and provides more stability, while renting offers flexibility and lower upfront costs. I can help you assess your financial situation to determine which option is best for you.
+
+# Prompt 11:
+Q: How do I choose the right real estate agent?
+A: Look for an agent with experience in the local market, good reviews, and a track record of successful sales. I can help you find top-rated agents in your area based on your needs.
+
+# Prompt 12:
+Q: Can you help me find foreclosed properties?
+A: Yes, I can assist in finding foreclosed properties. These homes are often sold at a lower price but may require repairs. Let me know your budget and preferred area, and I can find listings for you.
+
+# Prompt 13:
+Q: What should I do if my home isn’t selling?
+A: Consider adjusting the price, enhancing curb appeal, or improving marketing efforts. I can analyze the market and provide suggestions to increase buyer interest.
+
+# Prompt 14:
+Q: How do I calculate the down payment for a house?
+A: Typically, a down payment is 20% of the home’s price, but it can be as low as 3-5% with certain loan programs. I can help you calculate your down payment based on your budget.
+
+# Prompt 15:
+Q: What are the advantages of investing in real estate?
+A: Real estate can offer long-term appreciation, passive income through rentals, and tax benefits. I can provide more information on investment strategies and potential returns.
+
+# Prompt 16:
+Q: Can you help me find a real estate attorney?
+A: Yes, I can help you find real estate attorneys in your area to assist with contracts, closing documents, and legal matters related to buying or selling property.
+
+# Prompt 17:
+Q: How do I estimate the value of my home?
+A: You can estimate your home's value by looking at recent comparable sales, market conditions, and any upgrades or repairs made. I can help you get a home valuation from a local real estate agent or online tools.
+
+# Prompt 18:
+Q: What are the steps to buying a condo?
+A: Steps include getting pre-approved for a mortgage, finding a condo in a suitable location, reviewing condo association rules, and completing the purchase process. I can guide you through each step and provide listings.
+
+# Prompt 19:
+Q: How can I find properties with a good rental yield?
+A: Look for properties in high-demand rental areas with low vacancy rates and strong appreciation potential. I can analyze market data to help you find properties with a good rental yield.
+
+# Prompt 20:
+Q: What’s the difference between a fixed-rate and adjustable-rate mortgage?
+A: A fixed-rate mortgage has the same interest rate for the entire term, while an adjustable-rate mortgage starts with a lower rate but can increase over time. I can help you compare mortgage options to find what’s best for you.
